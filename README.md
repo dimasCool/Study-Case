@@ -1,4 +1,6 @@
 # Study-Case# Study-Case
+Nama: Dhimas Abdillah Wicaksana
+Nim: 19.11.2784
 Promos
 Aplikasi sederhana sesuai Study Case yang diberikan dosen sebagai tugas UAS Pemrogramana , Aplikasi ini berguna sebagai simulasi pembelian makanan/minuman dengan implementasi promo/voucher.
 
